@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/arya_portfolio/static/css/main.4a824000.css",
-    "main.js": "/arya_portfolio/static/js/main.a29ab1bb.js",
+    "main.js": "/arya_portfolio/static/js/main.5853bf7d.js",
     "static/js/787.512dd3f2.chunk.js": "/arya_portfolio/static/js/787.512dd3f2.chunk.js",
     "index.html": "/arya_portfolio/index.html",
     "main.4a824000.css.map": "/arya_portfolio/static/css/main.4a824000.css.map",
-    "main.a29ab1bb.js.map": "/arya_portfolio/static/js/main.a29ab1bb.js.map",
+    "main.5853bf7d.js.map": "/arya_portfolio/static/js/main.5853bf7d.js.map",
     "787.512dd3f2.chunk.js.map": "/arya_portfolio/static/js/787.512dd3f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a824000.css",
-    "static/js/main.a29ab1bb.js"
+    "static/js/main.5853bf7d.js"
   ]
 }
