@@ -15,6 +15,17 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
+								src="https://moneyeu.com/assets/frontend_assets/zest/img/money-eu.webp"
+								alt="facebook"
+								className="work-image"
+							/>
+							<div className="work-title">Money EU</div>
+							<div className="work-subtitle">
+								Senior Software Developer (FullStack)
+							</div>
+						</div>
+						<div className="work">
+							<img
 								src="https://media.licdn.com/dms/image/v2/D560BAQHK_qe5RlyULg/company-logo_200_200/company-logo_200_200/0/1683639978515/visdum_logo?e=2147483647&v=beta&t=d6YBr74vp-UJ711up7mtfNKOIgjZgKxrUfLyZt7RkZM"
 								alt="facebook"
 								className="work-image"
